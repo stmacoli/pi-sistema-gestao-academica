@@ -15,7 +15,7 @@ A entrega inclui: prototipação das telas, casos de uso, diagramas UML e estrut
 - LUCAS FILIPE FERREIRA RODRIGUES
 - THAIS ISABELLE DOS SANTOS CHAGAS
 
-> **Substitua pelos nomes reais da equipe.**
+
 
 ---
 
