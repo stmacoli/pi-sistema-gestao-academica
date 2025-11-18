@@ -7,13 +7,13 @@ A entrega inclui: prototipação das telas, casos de uso, diagramas UML e estrut
 ---
 
 # 👥 Integrantes do Grupo
-- (Nome do Integrante 1)
-- (Nome do Integrante 2)
-- (Nome do Integrante 3)
-- (Nome do Integrante 4)
-- (Nome do Integrante 5)
+- STEVEN MACHADO OLIVEIRA PAN BARREDA
+- LEONARDO AMARAL DE SOUZA
+- JOHAN PINTO TRAPP
+- PEDRO SOUZA BRANDAO
+- THAIS ISABELLE DOS SANTOS CHAGAS
+- LUCAS FILIPE FERREIRA RODRIGUES
 
-> **Substitua pelos nomes reais da equipe.**
 
 ---
 
