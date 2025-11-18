@@ -13,8 +13,6 @@ A entrega inclui: prototipação das telas, casos de uso, diagramas UML e estrut
 - PEDRO SOUZA BRANDAO
 - THAIS ISABELLE DOS SANTOS CHAGAS
 - LUCAS FILIPE FERREIRA RODRIGUES
-
-
 ---
 
 # 🧭 Sobre o Sistema
